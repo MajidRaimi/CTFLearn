@@ -1,0 +1,27 @@
+- How To Open .txt Files : 
+	leafpad <fileName.txt>
+	nano <fileName.txt>
+	vim <fileName.txt>
+- How To Install A Tool : 
+	sudo apt install <toolName> -y
+	' sudo : super user do '
+	' apt package manager '
+	' -y for yes condition ' 
+- How To Change Directory : 
+	cd <directoryName> 
+- How To Reverse Directory : 
+	cd ..
+- How To Go Home Directory :
+	cd 
+- How To Create Directory : 
+	mkdir <directoryName>
+- How To Delete Directory :
+	rm -r <directoryName>
+	' rm = remove '
+	' -r = recursion ( remove all files inside ) '
+- How To Create A File :
+	touch <fileName.fileExtention>
+- How To Exit VIM : 
+	:wq!
+
+

@@ -1,0 +1,17 @@
+Tools : 
+	- eog ( Display .png Files )
+	- pngcheck ( Check If This File Is Realy .png )
+	- file ( Get File Type From The Magic Bytes )
+	- cp ( Copy )
+	- binwalk ( Extract Hidden Folders )
+
+1 - Display The Image : 
+	" eog <fileName> "
+2 - Check If It's .png : 
+	" pngcheck <fileName> "
+3 - Change <fileName.png> To <fileName.jpeg> : 
+	" cp <fileName.png> <fileName.jpeg> "
+4 - Find A Specific Sequence In A 'strings' hex code : 
+	" strings <fileName> | grep '<sequence>' "
+5 - Extract Hidden Folders : 
+	" binwalk -e <fileName> 

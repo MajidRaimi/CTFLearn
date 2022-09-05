@@ -1,0 +1,12 @@
+Tools :
+	- exiftool
+	- strings 
+
+1 - Display Comments About A File :
+	" exiftool <fileName> "
+
+2 - Display Hex Code Of A File : 
+	" string <fileName> "
+
+Flag Found :
+	flag{wow!_data_is_cool}

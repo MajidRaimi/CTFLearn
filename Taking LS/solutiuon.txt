@@ -1,0 +1,12 @@
+Tools : 
+	- unzip
+	- ls 
+
+1 - Unzip The Zipped File :
+	" unzip <fileName>
+2 - Show Files : 
+	" ls "
+3 - Show All Files Including Hidden :
+	" ls -la "
+
+
